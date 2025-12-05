@@ -4,7 +4,7 @@
 
 **AI-powered workspace for computational research**
 
-[Website](https://atlas-research.io) · [Documentation](https://docs.atlas-research.io) · [Discord](https://discord.gg/FjHD3CKAcZ) · [Twitter](https://x.com/atlas_res)
+[Website](https://atlas-research.io) · [Documentation](https://atlas-research.io/docs) · [Discord](https://discord.gg/FjHD3CKAcZ) · [Twitter](https://x.com/atlas_res)
 
 </div>
 
