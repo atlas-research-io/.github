@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🧪 Atlas Research
+![Atlas Research Banner](./assets/banner.png)
+
+# Atlas Research
 
 **AI-powered workspace for computational research**
 
