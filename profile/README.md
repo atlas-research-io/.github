@@ -1,6 +1,6 @@
 <div align="center">
 
-![Atlas Research Banner](./assets/banner.png)
+![Atlas Research Banner](./githubBanner.png)
 
 # Atlas Research
 
